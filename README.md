@@ -1,16 +1,20 @@
-## Hi there 👋
+ ### Hi 👋 I'm Nandni Agrwal
 
-<!--
-**NandniAgrwal/NandniAgrwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💖 About Me
+🎓 Computer Science Student.
+🌱 Always exploring new tools, frameworks, and technologies to improve my development workflow.
+👩‍💻 I enjoy turning ideas into visually appealing web pages using HTML, CSS, and JavaScript. 
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨🚀 Currently Exploring
+💻 MERN Stack (MongoDB, Express, React, Node.js)
+🪶 Tailwind CSS, UI/UX Design, API Integration
+⚡ Building creative web projects with clean code & smooth animationsCurrently, I am improving my skills in modern frontend practices and UI design.
+
+----
+
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/nandni-agrwal-375ba229b/
+- 📧 Email: nandni2009agrawal@gmail.com
+
