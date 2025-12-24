@@ -14,7 +14,7 @@
 
 ----
 
-💖 About Me</br>
+###💖 About Me</br>
 🎓 Computer Science Student.</br>
 🌱 Always exploring new tools, frameworks, and technologies to improve my development workflow.</br>
 👩‍💻 I enjoy turning ideas into visually appealing web pages using HTML, CSS, and JavaScript.</br> 
@@ -22,7 +22,7 @@
 
 ----
 
-✨🚀 Currently Exploring</br>
+###✨🚀 Currently Exploring</br>
 💻 MERN Stack (MongoDB, Express, React, Node.js).</br>
 🪶 Tailwind CSS, UI/UX Design, API Integration.</br>
 ⚡ Building creative web projects with clean code & smooth animationsCurrently, I am improving my skills in modern frontend practices and UI design.</br>
