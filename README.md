@@ -14,22 +14,22 @@
 
 ----
 
-💖 About Me
-🎓 Computer Science Student.
-🌱 Always exploring new tools, frameworks, and technologies to improve my development workflow.
-👩‍💻 I enjoy turning ideas into visually appealing web pages using HTML, CSS, and JavaScript. 
-🚀 Always learning and improving
+💖 About Me</br>
+🎓 Computer Science Student.</br>
+🌱 Always exploring new tools, frameworks, and technologies to improve my development workflow.</br>
+👩‍💻 I enjoy turning ideas into visually appealing web pages using HTML, CSS, and JavaScript.</br> 
+🚀 Always learning and improving.
 
 ----
 
-✨🚀 Currently Exploring
-💻 MERN Stack (MongoDB, Express, React, Node.js)
-🪶 Tailwind CSS, UI/UX Design, API Integration
-⚡ Building creative web projects with clean code & smooth animationsCurrently, I am improving my skills in modern frontend practices and UI design.
+✨🚀 Currently Exploring</br>
+💻 MERN Stack (MongoDB, Express, React, Node.js).</br>
+🪶 Tailwind CSS, UI/UX Design, API Integration.</br>
+⚡ Building creative web projects with clean code & smooth animationsCurrently, I am improving my skills in modern frontend practices and UI design.</br>
 
 ----
 
-### 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nandni-agrwal-375ba229b/
-- 📧 Email: nandni2009agrawal@gmail.com
+### 📫 Connect with Me</br>
+- 💼 LinkedIn: https://www.linkedin.com/in/nandni-agrwal-375ba229b/</br>
+- 📧 Email: nandni2009agrawal@gmail.com</br>
 
